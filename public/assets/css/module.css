@@ -1,7 +1,7 @@
 input,
 textarea,
 select {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Courgette', cursive;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
@@ -315,7 +315,7 @@ table th {
     text-align: left;
     padding: 0.5em 1em 0.5em 1em;
     color: #fff;
-    background: #222729 url("images/overlay.png");
+    background: #ca986e url("images/overlay.png");
 }
 
 table thead {

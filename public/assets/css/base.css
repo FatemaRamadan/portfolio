@@ -19,7 +19,7 @@
     -webkit-justify-content: space-between;
     -ms-justify-content: space-between;
     justify-content: space-between;
-    background: #222629 url("images/overlay.png");
+    background: #0eb2b8c0 url("images/overlay.png");
     box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
     color: #fff;
     height: 100%;
@@ -56,7 +56,7 @@
 }
 
 #header .icons a {
-    color: #41484c;
+    color: #2892cf;
     -moz-transition: color 0.35s ease-in-out;
     -webkit-transition: color 0.35s ease-in-out;
     -ms-transition: color 0.35s ease-in-out;
@@ -193,8 +193,8 @@
 }
 
 #main>section.dark {
-    color: #ddd;
-    color: rgba(255, 255, 255, 0.75);
+    color: rgb(221, 221, 221);
+    color: rgba(255, 255, 255, 0.959);
 }
 
 #main>section.dark h2,
@@ -206,7 +206,7 @@
 }
 
 #main>section.dark strong {
-    color: #fff;
+    color: rgb(255, 255, 255);
     border-color: inherit;
 }
 
@@ -227,7 +227,7 @@
 
 #main>section.one {
     background-color: #81918E;
-    background-image: url("../../images/banner.jpg");
+    background-image: url("../../assets/css/images/xps-8pb7Hq539Zw-unsplash.jpg");
 }
 
 #main>section.two {
