@@ -22,17 +22,25 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature:  Refactor the CSS
+Estimate of time needed to complete: 1 hour
 
-Estimate of time needed to complete: _____
+Start time: ___3.00__
 
-Start time: _____
+Finish time: _3.43____
 
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: _43 minutes____
 ```
+```
+Number and name of feature:  Refactor the CSS
+Estimate of time needed to complete: 1 hour
 
+Start time: ___3.00__
+
+Finish time: _3.43____
+
+Actual time needed to complete: _43 minutes____
+```
 Add this information to your README.
 
 ### Feature #1: Refactor the CSS 
