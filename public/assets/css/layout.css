@@ -1205,6 +1205,9 @@ article:last-child {
         box-sizing: border-box;
         align-items: stretch;
     }
+    #logo {
+        display: inline-block;
+    }
     .row>* {
         box-sizing: border-box;
     }
